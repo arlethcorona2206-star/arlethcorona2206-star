@@ -12,5 +12,6 @@ Soy estudiante de **Informática** en CONALEP Tijuana 2. Me apasiona el desarrol
 - **Sistemas Operativos: ** Windows, Linux (básico).
 
 ## 📬 Cómo contactarme
-- **Correo:** ** juan.perez@ejemplo.com
-- **LinkeIn:** ** [Mi perfil](https://www.linkedin.com/in/tu-perfil)
+- **Correo:** ** arlethcorona2206@gmail.com 
+- **LinkeIn:** ** [Mi perfil]
+  https://github.com/settings/profile
